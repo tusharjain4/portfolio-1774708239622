@@ -1,0 +1,122 @@
+{
+  "name": "Pooja R. Sonar",
+  "role": "Software Developer",
+  "tagline": "Full-stack developer specializing in MERN stack development and cutting-edge web technologies",
+  "about": "Results-driven software developer with proven expertise in building scalable web applications using modern technologies including Next.js, React, and TypeScript. Currently pursuing B.Tech in IT with exceptional academic performance (CGPA: 9.2) and substantial industry experience gained through strategic internships at leading organizations including TABX, Lilypad, and DRDO.",
+  "experience": 1,
+  "currentRole": "SDE Intern at TABX",
+  "highlights": [
+    "Developed scalable web applications using Next.js and TypeScript",
+    "Built e-commerce platform features for EV bikes marketplace",
+    "Implemented message-driven architecture using RabbitMQ",
+    "Created reusable UI components using Storybook",
+    "Won 2nd place at all Goa science day innovative project building competition",
+    "Secured third position at GDSC ADGITM hackathon"
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React.js",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Backend",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "Java",
+        "PHP",
+        "RESTful APIs",
+        "RabbitMQ"
+      ]
+    },
+    {
+      "name": "Database",
+      "skills": [
+        "MongoDB",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "skills": [
+        "JavaScript",
+        "TypeScript",
+        "Java",
+        "C++",
+        "Python",
+        "Solidity"
+      ]
+    },
+    {
+      "name": "Tools & Technologies",
+      "skills": [
+        "Git",
+        "GitHub",
+        "Storybook",
+        "Arduino",
+        "DSA",
+        "OOPS"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AccessAI - CodeQuest",
+      "description": "AI-powered gamified coding preparation platform that transforms programming education through interactive learning experiences. Features comprehensive support for multiple programming languages, including Solidity for smart contract development, delivered through an engaging, game-based interface.",
+      "tech": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Express.js",
+        "AI Integration"
+      ],
+      "demo": "https://access-ai-iota.vercel.app/"
+    },
+    {
+      "name": "Maxiple Technology Website",
+      "description": "Comprehensive corporate website solution developed as a freelance project for a laptop repair company. Delivered a professional, responsive web presence that effectively showcases services and enhances customer engagement.",
+      "tech": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Express.js"
+      ],
+      "demo": "https://maxipleitservices.com"
+    },
+    {
+      "name": "Chess.com Backend Clone",
+      "description": "Comprehensive backend system replicating Chess.com's core functionality using the MERN stack. Features sophisticated API architecture and robust database management to support real-time chess gameplay, user authentication, and seamless multiplayer interactions.",
+      "tech": [
+        "MongoDB",
+        "Express.js",
+        "React",
+        "Node.js",
+        "Real-time APIs"
+      ]
+    },
+    {
+      "name": "Arduino Floor Cleaner",
+      "description": "Award-winning autonomous floor cleaning solution powered by Arduino technology with smartphone-controlled remote capabilities. Recognized with 2nd place at the All Goa Science Day Competition for innovative hardware design and practical IoT implementation.",
+      "tech": [
+        "Arduino",
+        "Mobile App Development",
+        "IoT",
+        "Hardware Programming"
+      ]
+    }
+  ],
+  "contact": {
+    "email": "poojasonar671@gmail.com",
+    "linkedin": "https://linkedin.com/in/poojasonar671",
+    "github": "https://github.com/poojasonar671"
+  }
+}
